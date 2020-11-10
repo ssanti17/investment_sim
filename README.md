@@ -10,7 +10,7 @@ This is a R Shiny App I created for Stat 133: Concepts in Computing with Data. T
 
 ### Tools Used
 
-This program was coded in R and the app was deployed using R shiny. Packages dplyr and ggplot2 were also used for data manipulation/visualization.
+This program was coded in `R` and the app was deployed using R shiny. Packages `dplyr` and `ggplot2` were also used for data manipulation/visualization.
 
 
 ### App Link
